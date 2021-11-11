@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/tipCalculator/static/css/main.3ff7123c.chunk.css",
-    "main.js": "/tipCalculator/static/js/main.0607ce2e.chunk.js",
-    "main.js.map": "/tipCalculator/static/js/main.0607ce2e.chunk.js.map",
+    "main.css": "/tipCalculator/static/css/main.afcadebd.chunk.css",
+    "main.js": "/tipCalculator/static/js/main.badc900a.chunk.js",
+    "main.js.map": "/tipCalculator/static/js/main.badc900a.chunk.js.map",
     "runtime-main.js": "/tipCalculator/static/js/runtime-main.66b3f899.js",
     "runtime-main.js.map": "/tipCalculator/static/js/runtime-main.66b3f899.js.map",
     "static/js/2.f471d3c4.chunk.js": "/tipCalculator/static/js/2.f471d3c4.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.0a6d2d24.chunk.js": "/tipCalculator/static/js/3.0a6d2d24.chunk.js",
     "static/js/3.0a6d2d24.chunk.js.map": "/tipCalculator/static/js/3.0a6d2d24.chunk.js.map",
     "index.html": "/tipCalculator/index.html",
-    "static/css/main.3ff7123c.chunk.css.map": "/tipCalculator/static/css/main.3ff7123c.chunk.css.map",
+    "static/css/main.afcadebd.chunk.css.map": "/tipCalculator/static/css/main.afcadebd.chunk.css.map",
     "static/js/2.f471d3c4.chunk.js.LICENSE.txt": "/tipCalculator/static/js/2.f471d3c4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.66b3f899.js",
     "static/js/2.f471d3c4.chunk.js",
-    "static/css/main.3ff7123c.chunk.css",
-    "static/js/main.0607ce2e.chunk.js"
+    "static/css/main.afcadebd.chunk.css",
+    "static/js/main.badc900a.chunk.js"
   ]
 }
