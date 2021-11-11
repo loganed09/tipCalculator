@@ -1,0 +1,78 @@
+/* 
+font-family: 'Cabin Sketch', cursive;
+font-family: 'Frijole', cursive;
+font-family: 'Megrim', cursive;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Rampart One', cursive;
+font-family: 'Shadows Into Light', cursive;
+font-family: 'Wallpoet', cursive;*/
+html{
+  font-size: 16px;
+}
+
+body {
+  background-image: linear-gradient(blue, orange);
+  /* background-repeat: no-repeat; */
+  background-attachment: fixed;
+  text-align: center;
+  color: rgb(58, 231, 116);
+  font-family: 'Frijole', cursive;
+  font-size: 1.5rem;
+  height: 100%;
+}
+
+.mainContainer{
+  width: 100%;
+}
+
+
+h1 {
+  font-size: 4.3rem;
+ 
+}
+
+input {
+  width: 4rem;
+  font-family: 'Wallpoet', cursive;
+  font-size: .8rem;
+  color: black;
+}
+
+select {
+  font-family: 'Wallpoet', cursive;
+}
+
+button {
+  background-color: darkred;
+  color: lightgreen;
+  border-radius: 45%;
+  padding: .8rem;
+  font-family: 'Megrim', cursive;
+  font-size: 2.4rem;
+}
+
+p {
+  font-family: 'Cabin Sketch', cursive;
+  font-size: 3.2rem;
+  color: rgb(58, 231, 116);
+}
+
+ul {
+  text-align: center;
+}
+
+li {
+  color: red;
+  width: 600px;
+  text-align: center;
+  margin: 0 auto;
+  list-style-type: none;
+}
+
+#fullCost {
+  font-size: 2.2rem;
+}
+
+#costValue {
+  color: green;
+}
