@@ -76,3 +76,28 @@ li {
 #costValue {
   color: green;
 }
+
+
+@media only screen and (max-width: 600px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  label {
+    font-size: 1rem;
+  }
+
+  #total {
+    font-size: 1.5rem;
+  }
+
+  li, #fullCost {
+    font-size: 1rem;
+    text-align: center;
+    width: 400px;
+  }
+
+  ul {
+   text-align: center
+  }
+}

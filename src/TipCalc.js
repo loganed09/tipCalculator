@@ -1,32 +1,5 @@
 import React from 'react';
 
-// export function TipCalc() {
-//     const tipCalc = () => {
-//         let tipAmt = parseFloat(document.getElementById('tip').value);
-//         let mealCost = parseFloat(document.getElementById('mealCost').value);
-//         let moneyMeal = mealCost.toFixed(2);
-//         let totalTip = mealCost * tipAmt;
-//         let moneyTip = totalTip.toFixed(2);
-//         let totalCost = mealCost + totalTip;
-//         let moneyCost = totalCost.toFixed(2);
-//         if(document.getElementById('tip').value !== '2') {
-//             let result = `Your meal costing $${moneyMeal}, with a tip of $${moneyTip}, which would give a full total of $${moneyCost}.`;
-//             document.getElementById('total').innerHTML = result;
-//         }else {
-//             let result = `YOU CHOSE THE OMEGA TIP!!!!!!!!!! BIG MONEY!! WATCH OUT FOR THIS ONE!!! YOU HAVE DOUBLED THE COST! MAKING YOUR MEAL COST OF $${moneyMeal} COST A WHOPPING $${moneyCost} FROM AN INSANE TIP OF $${moneyTip}!!!!!`;
-//             document.getElementById('total').innerHTML = result;
-//         }
-        
-//       }
-
-//       return (
-//         <div>
-//             <button onClick={tipCalc}>Calculate</button>
-//             <p id="total"><span id="fullMeal"></span></p>
-//         </div>
-//       )
-// };
-
 export function TipCalc() {
     const tipCalc = () => {
         let tipAmt = parseFloat(document.getElementById('tip').value);
